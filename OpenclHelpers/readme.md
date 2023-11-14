@@ -1,0 +1,1 @@
+just include syntax.h in your opencl files and may be cpp files
